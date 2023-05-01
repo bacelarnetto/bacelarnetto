@@ -2,7 +2,7 @@
 
 ```kotlin
 class Profile {
-    val name = "José Ribamar"
+    val name = "José Ribamar Bacelar Netto"
     val professionalSummary  = "Sou um profissional com muitos anos de experiência na área de tecnologia, " +
             "atuando principalmente no segmento de engenharia e arquitetura de software. Atualmente minha " +
             "principal stack de trabalho é o java, kotlin, spring e javascript. Também tenho um excelente " +
