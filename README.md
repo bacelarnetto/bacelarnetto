@@ -1,5 +1,35 @@
 # Oi! Meu nome é José Ribamar! 👋 
 
+```kotlin
+class Profile {
+    val name = "José Ribamar"
+    val professionalSummary  = "Sou um profissional com muitos anos de experiência na área de tecnologia, " +
+            "atuando principalmente no segmento de engenharia e arquitetura de software. Atualmente minha " +
+            "principal stack de trabalho é o java, kotlin, spring e javascript. Também tenho um excelente " +
+            "conhecimento em kubernetes, docker e cultura Devops."
+    val educationalBackground = "Bacharelado em Sistemas de informação"
+    val qualifications = listOf(
+        "IT Architect",
+        "Software Engineer",
+        "Full Stack Developer "
+    )
+    val languages = listOf(
+        "Java",
+        "Kotlin",
+        "JavaScript"
+    )
+    val hobbys = listOf(
+        "Tocar violão",
+        "Desenhar",
+        "Animes"
+        "Mangás",
+        "filmes",
+        "séries"
+    )
+}
+```
+#
+
 <div align="center" >
   <a href="https://github.com/bacelarnetto">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
