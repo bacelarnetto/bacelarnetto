@@ -9,7 +9,8 @@
 ## Tecnologias que tenho domínio  ⭐️
 
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-<a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>  
+<a href="https://spring.io/"><img height= "35" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+<a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://www.mysql.com/"><img height= "35" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org/"><img height= "35" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
@@ -30,7 +31,7 @@
 <a href="https://www.mongodb.com/"><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="https://graphql.org/"><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>  
 <a href="https://kotlinlang.org/"><img height= "35" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
-<a href="https://kotlinlang.org/"><img height= "35" src= "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
+<a href="https://mui.com/"><img height= "35" src= "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
   
 ## Redes 💬 
 <div> 
