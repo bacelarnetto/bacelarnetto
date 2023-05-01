@@ -28,6 +28,8 @@ class Profile {
     )
 }
 ```
+<br/> 
+
 
 ## Github status :octocat:
 
@@ -38,6 +40,7 @@ class Profile {
 <div>
    <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
 </div>
+<br/> 
     
 ## Tecnologias que tenho domínio  ⭐️
 
@@ -60,6 +63,7 @@ class Profile {
 <a href="https://www.jetbrains.com/"><img height= "35" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> 
 <a href="https://www.rabbitmq.com/"><img height= "35" src= "https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a> 
+<br/> 
     
 ## Tecnologias em estado de carregamento 📖
   
@@ -78,12 +82,13 @@ class Profile {
 <a href="https://aws.amazon.com"><img height= "35" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 <a href="https://cloud.google.com"><img height= "35" src= "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 <a href="https://redis.io"><img height= "35" src= "https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white"></a>
+<br/>   
   
 ## Redes 💬 
 <div> 
 <a href="https://www.linkedin.com/in/jos%C3%A9-ribamar-bacelar-netto-4b54aa93" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br/> <br/> 
+<br/><br/> 
     
 
     
