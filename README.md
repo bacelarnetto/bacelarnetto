@@ -11,7 +11,7 @@ class Profile {
     val qualifications = listOf(
         "IT Architect",
         "Software Engineer",
-        "Full Stack Developer "
+        "Full Stack Developer"
     )
     val languages = listOf(
         "Java",
@@ -21,7 +21,7 @@ class Profile {
     val hobbys = listOf(
         "Tocar violão",
         "Desenhar",
-        "Animes"
+        "Animes",
         "Mangás",
         "Filmes",
         "Séries"
