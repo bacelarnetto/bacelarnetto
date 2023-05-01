@@ -4,7 +4,7 @@
 class Profile {
     val name = "José Ribamar Bacelar Netto"
     val professionalSummary  = "Sou um profissional com muitos anos de experiência na área de tecnologia, " +
-            "atuando principalmente nos segmentos de engenharia e arquitetura de software. Atualmente a minha " +
+            "atuando principalmente nos segmentos de Engenharia e Arquitetura de Software. Atualmente a minha " +
             "principal stack de trabalho é o Java, Kotlin, Spring e Javascript. Também tenho um excelente " +
             "conhecimento em kubernetes, docker e cultura DevOps."
     val educationalBackground = "Bacharelado em Sistemas de informação"
