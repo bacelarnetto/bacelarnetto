@@ -2,7 +2,7 @@
 
 ## ⭐️  Tecnologias que tenho domínio  ⭐️
 
-## 📖  E tecnologias em estado de carregamento 📖
+## 📖  Tecnologias em estado de carregamento 📖
 
 #
 
