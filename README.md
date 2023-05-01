@@ -34,7 +34,7 @@
 <a href="https://dart.dev/"><img height= "35" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
 <a href="https://flutter.dev/"><img height= "35" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a href="https://www.mongodb.com/"><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://graphql.org/"><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>  
+<a href="https://graphql.org/"><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
 <a href="https://kotlinlang.org/"><img height= "35" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <a href="https://mui.com/"><img height= "35" src= "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
 <a href="https://www.apple.com/br/macos"><img height= "35" src= "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
