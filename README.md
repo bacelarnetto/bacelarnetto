@@ -32,9 +32,7 @@ class Profile {
 ## Github status :octocat:
 
 <div align="center" >
-  <a href="https://github.com/bacelarnetto">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&langs_count=16&theme=tokyonight" width="50%" />
+<a href="https://github.com/bacelarnetto"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&langs_count=16&theme=tokyonight" width="50%" />
 </div>
     
 <div>
@@ -58,7 +56,7 @@ class Profile {
 <a href="https://ubuntu.com"><img height= "35" src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="https://www.microsoft.com/pt-br/windows"><img height= "35" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://eclipseide.org/"><img height= "35" src= "https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"></a>
-<a href="https://www.jetbrains.com/"><img height= "35" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>    
+<a href="https://www.jetbrains.com/"><img height= "35" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> 
     
 ## Tecnologias em estado de carregamento 📖
