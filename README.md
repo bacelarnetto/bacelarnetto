@@ -23,8 +23,8 @@ class Profile {
         "Desenhar",
         "Animes"
         "Mangás",
-        "filmes",
-        "séries"
+        "Filmes",
+        "Séries"
     )
 }
 ```
