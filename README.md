@@ -6,7 +6,7 @@ class Profile {
     val professionalSummary  = "Sou um profissional com muitos anos de experiência na área de tecnologia, " +
             "atuando principalmente no segmento de engenharia e arquitetura de software. Atualmente minha " +
             "principal stack de trabalho é o java, kotlin, spring e javascript. Também tenho um excelente " +
-            "conhecimento em kubernetes, docker e cultura Devops."
+            "conhecimento em kubernetes, docker e cultura DevOps."
     val educationalBackground = "Bacharelado em Sistemas de informação"
     val qualifications = listOf(
         "IT Architect",
