@@ -28,14 +28,19 @@ class Profile {
     )
 }
 ```
-#
+
+## Github status :octocat:
 
 <div align="center" >
   <a href="https://github.com/bacelarnetto">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&langs_count=16&theme=tokyonight" width="50%" />
 </div>
-
+    
+<div>
+   <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
+</div>
+    
 ## Tecnologias que tenho domínio  ⭐️
 
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -53,7 +58,9 @@ class Profile {
 <a href="https://www.linux.org"><img height= "35" src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="https://ubuntu.com"><img height= "35" src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="https://www.microsoft.com/pt-br/windows"><img height= "35" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-
+<a href="https://eclipseide.org/"><img height= "35" src= "https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"></a>
+<a href="https://www.jetbrains.com/"><img height= "35" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>    
+    
 ## Tecnologias em estado de carregamento 📖
   
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
