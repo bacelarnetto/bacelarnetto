@@ -51,7 +51,7 @@ class Profile {
 <br/> 
     
 ## Tecnologias que tenho domínio  ⭐️
-
+<div align="center" >  
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://spring.io/"><img height= "35" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 <a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
@@ -71,10 +71,12 @@ class Profile {
 <a href="https://www.jetbrains.com/"><img height= "35" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> 
 <a href="https://www.rabbitmq.com/"><img height= "35" src= "https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a> 
+</div>    
+    
 <br/><br/> 
     
 ## Tecnologias em estado de carregamento 📖
-  
+  <div align="center" > 
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 <a href="https://www.npmjs.com/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://expressjs.com/"><img height= "35" src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=ex&logoColor=white"></a>
@@ -90,6 +92,7 @@ class Profile {
 <a href="https://aws.amazon.com"><img height= "35" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 <a href="https://cloud.google.com"><img height= "35" src= "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 <a href="https://redis.io"><img height= "35" src= "https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white"></a>
+</div>  
 <br/><br/>  
   
 ## Redes 💬 
