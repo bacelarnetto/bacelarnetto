@@ -41,6 +41,9 @@ class Profile {
 
 ## Github status :octocat:
 
+<div align="right">
+   <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
+</div>
 <div align="center" >
     <img  src="https://github-profile-trophy.vercel.app/?username=bacelarnetto&theme=tokyonight&column=7" />
     <a href="https://github.com/bacelarnetto">
@@ -52,10 +55,6 @@ class Profile {
 <a href="https://github.com/bacelarnetto"><img src="https://streak-stats.demolab.com/?user=bacelarnetto&theme=tokyonight"  width="50%" /></a>
 </div>
 <br/>    
-<div>
-   <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
-</div>
-<br/> 
     
 ## Technologies I have mastered  ⭐️
 <div align="center" >  
