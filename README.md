@@ -11,11 +11,11 @@
 ```kotlin
 class Profile {
     val name = "José Ribamar Bacelar Netto"
-    val professionalSummary  = "Sou um profissional com muitos anos de experiência na área de tecnologia, " +
-            "atuando principalmente nos segmentos de Engenharia e Arquitetura de Software. Atualmente a minha " +
-            "principal stack de trabalho é o Java, Kotlin, Spring e Javascript. Também tenho um excelente " +
-            "conhecimento em kubernetes, docker e cultura DevOps."
-    val educationalBackground = "Bacharelado em Sistemas de informação"
+    val professionalSummary  = "I am a professional with many years of experience in the technology field, " + 
+            "working mainly in Software Engineering and Architecture. Currently my " + 
+            "main stack of work is Java, Kotlin, Spring and Javascript. I also have an excellent " + 
+            "knowledge in kubernetes, docker and DevOps culture."     
+    val educationalBackground = "Bachelor in Information Systems"
     val qualifications = listOf(
         "IT Architect",
         "Software Engineer",
@@ -27,12 +27,12 @@ class Profile {
         "JavaScript"
     )
     val hobbys = listOf(
-        "Tocar violão",
-        "Desenhar",
-        "Animes",
-        "Mangás",
-        "Filmes",
-        "Séries"
+        "Play guitar",
+        "Pencil drawing",
+        "Anime",
+        "Japanese comic book",
+        "Watch movies",
+        "Watch series "
     )
 }
 ```
@@ -57,7 +57,7 @@ class Profile {
 </div>
 <br/> 
     
-## Tecnologias que tenho domínio  ⭐️
+## Technologies I have mastered  ⭐️
 <div align="center" >  
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://spring.io/"><img height= "35" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
@@ -82,7 +82,7 @@ class Profile {
     
 <br/><br/> 
     
-## Tecnologias em estado de carregamento 📖
+## Technologies in state of loading 📖
   <div align="center" > 
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 <a href="https://www.npmjs.com/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
@@ -102,7 +102,7 @@ class Profile {
 </div>  
 <br/><br/>  
   
-## Redes 💬 
+## Contacts 💬 
 <div> 
 <a href="https://www.linkedin.com/in/jos%C3%A9-ribamar-bacelar-netto-4b54aa93" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://gitlab.com/bacelarnetto" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" target="_blank"></a> 
