@@ -52,7 +52,7 @@ class Profile {
     </a>
 </div>
 <div align="center" >  
-<a href="https://github.com/bacelarnetto"><img src="https://streak-stats.demolab.com/?user=bacelarnetto&theme=tokyonight"  width="50%" /></a>
+<a href="https://github.com/bacelarnetto"><img src="https://streak-stats.demolab.com/?user=bacelarnetto&theme=tokyonight" /></a>
 </div>
 <br/> 
     
