@@ -1,6 +1,11 @@
 # Oi! Meu nome é José Ribamar! 👋 
 
-<br/>
+<div align="right" >
+<p>
+  <a href="README.md"><img src="https://img.shields.io/badge/lang-en-red.svg" alt="en"></a>
+  <a href="README.pt-br.md"><img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="pt-br"></a>
+</p>
+</div>
 
 ```kotlin
 class Profile {
