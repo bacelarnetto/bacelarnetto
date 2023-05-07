@@ -100,7 +100,7 @@ class Profile {
 <div> 
 <a href="https://www.linkedin.com/in/jos%C3%A9-ribamar-bacelar-netto-4b54aa93" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://gitlab.com/bacelarnetto" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" target="_blank"></a> 
-     
+ [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bacelar.netto.analista@gmail.com)    
 
 </div>
 <br/><br/> 
