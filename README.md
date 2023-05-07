@@ -44,6 +44,7 @@ class Profile {
 <div align="right">
    <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
 </div>
+<br/>
 <div align="center" >
     <img  src="https://github-profile-trophy.vercel.app/?username=bacelarnetto&theme=tokyonight&column=7" />
     <a href="https://github.com/bacelarnetto">
