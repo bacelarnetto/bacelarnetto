@@ -28,7 +28,7 @@ class Profile {
     )
     val hobbys = listOf(
         "Play guitar",
-        "Pencil drawing",
+        "Pencil drawings",
         "Anime",
         "Japanese comic book",
         "Watch movies",
