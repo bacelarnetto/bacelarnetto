@@ -1,4 +1,4 @@
-# Oi! Meu nome é José Ribamar! 👋 
+# Hey! My name is José Ribamar! 👋 
 
 <div align="right" >
 <p>
@@ -7,7 +7,6 @@
 </p>
 </div>
 
-<br/>
 
 ```kotlin
 class Profile {
