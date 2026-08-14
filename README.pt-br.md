@@ -45,16 +45,6 @@ class Profile {
 </div>
 
 <br/> 
-<div align="center">
-
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
-<br/> 
     
 ## Tecnologias que tenho domínio  ⭐️
 <div align="center" >  
