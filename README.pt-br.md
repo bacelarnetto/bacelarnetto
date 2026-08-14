@@ -45,7 +45,9 @@ class Profile {
 </div>
 
 <br/> 
-[https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bacelarnetto&theme=dracula" />
+</p>
 <br/> 
     
 ## Tecnologias que tenho domínio  ⭐️
