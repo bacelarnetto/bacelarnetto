@@ -46,7 +46,9 @@ class Profile {
 
 <br/> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bacelarnetto&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&theme=tokyonight" />
 </p>
 <br/> 
     
