@@ -11,10 +11,11 @@
 ```kotlin
 class Profile {
     val name = "José Ribamar Bacelar Netto"
-    val professionalSummary  = "I am a professional with many years of experience in the technology field, " + 
-            "working mainly in Software Engineering and Architecture. Currently my " + 
-            "main stack of work is Java, Kotlin, Spring and Javascript. I also have an excellent " + 
-            "knowledge in kubernetes, docker and DevOps culture."     
+    val professionalSummary  = "I enjoy building scalable and resilient systems using Java, Kotlin, Spring Boot, Kubernetes, Docker, and cloud-native technologies. " + 
+"My public projects explore distributed systems, microservices, observability, event-driven architectures,  " + 
+"Platform Engineering, Generative AI, AI Agents, RAG, and MCP.  " + 
+
+I believe that software architecture should balance scalability, reliability, maintainability, and developer experience.   
     val educationalBackground = "Bachelor in Information Systems"
     val qualifications = listOf(
         "IT Architect",
