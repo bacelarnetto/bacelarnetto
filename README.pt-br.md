@@ -10,9 +10,12 @@
 ```kotlin
 class Profile {
     val name = "José Ribamar Bacelar Netto"
-    val professionalSummary  = "Engenheiro de Software e Arquiteto de Software apaixonado por projetar e desenvolver sistemas escaláveis e resilientes. " +
-        "Meus projetos públicos são focados em sistemas distribuídos, microsserviços, observabilidade, arquitetura orientada a eventos, " +
-        "computação em nuvem, engenharia de plataforma e soluções baseadas em IA generativa, agentes de IA, RAG e MCP (Model Context Protocol)." 
+    val professionalSummary  = "Engenheiro de Software e Arquiteto de Software apaixonado " +
+        "por projetar e desenvolver sistemas escaláveis e resilientes. " +
+        "Meus projetos públicos são focados em sistemas distribuídos, microsserviços,  " +
+        "observabilidade, arquitetura orientada a eventos, " +
+        "computação em nuvem, engenharia de plataforma e soluções baseadas em  " +
+        "IA generativa, agentes de IA, RAG e MCP (Model Context Protocol)." 
     val educationalBackground = "Bacharelado em Sistemas de informação"
     val qualifications = listOf(
         "IT Architect",
