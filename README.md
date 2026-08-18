@@ -14,7 +14,7 @@ class Profile {
     val professionalSummary  = "I enjoy building scalable and resilient systems using Java, Kotlin, " + 
         "Spring Boot, Kubernetes, Docker, and cloud-native technologies. " + 
         "My public projects explore distributed systems, microservices, observability, event-driven architectures,  " + 
-        "Platform Engineering, Generative AI, AI Agents, RAG, and MCP.  " + 
+        "Platform Engineering, Generative AI, AI Agents, RAG, and MCP."
 
 I believe that software architecture should balance scalability, reliability, maintainability, and developer experience.   
     val educationalBackground = "Bachelor in Information Systems"
