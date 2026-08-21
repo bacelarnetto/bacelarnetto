@@ -43,21 +43,7 @@ I believe that software architecture should balance scalability, reliability, ma
 
 ## Github status :octocat:
 
-<div align="right">
-   <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
-</div>
-<br/>
-<div align="center" >
-    <img  src="https://github-profile-trophy.vercel.app/?username=bacelarnetto&theme=tokyonight&column=7" />
-    <a href="https://github.com/bacelarnetto">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&langs_count=16&theme=tokyonight"  />
-    </a>
-</div>
-<div align="center" >  
-<a href="https://github.com/bacelarnetto"><img src="https://streak-stats.demolab.com/?user=bacelarnetto&theme=tokyonight" /></a>
-</div>
-<br/>    
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" /> </div> <br/> <div align="center" > <img src="https://github-profile-trophy.vercel.app/?username=bacelarnetto&theme=tokyonight&column=7" /> <a href="https://github.com/bacelarnetto"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&langs_count=16&theme=tokyonight" /> </a> </div> <div align="center" > <!-- TODO: replace streak-stats.demolab.com with your own self-hosted instance URL once deployed (see notes below) --> <a href="https://github.com/bacelarnetto"><img src="https://streak-stats.demolab.com/?user=bacelarnetto&theme=tokyonight" /></a> </div> <br/>  
     
 ## Technologies I have mastered  ⭐️
 <div align="center" >  
