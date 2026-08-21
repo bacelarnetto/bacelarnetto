@@ -60,10 +60,11 @@ I believe that software architecture should balance scalability, reliability, ma
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
   </a>
   <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/bacelarnetto/github-readme-stats/badge" />
   </a>
   <br />
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
     
 ## Technologies I have mastered  ⭐️
 <div align="center" >  
