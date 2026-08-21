@@ -43,7 +43,31 @@ I believe that software architecture should balance scalability, reliability, ma
 
 ## Github status :octocat:
 
-<div align="right"> <img src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" /> </div> <br/> <div align="center" > <img src="https://github-profile-trophy.vercel.app/?username=bacelarnetto&theme=tokyonight&column=7" /> <a href="https://github.com/bacelarnetto"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&langs_count=16&theme=tokyonight" /> </a> </div> <div align="center" > <!-- TODO: replace streak-stats.demolab.com with your own self-hosted instance URL once deployed (see notes below) --> <a href="https://github.com/bacelarnetto"><img src="https://streak-stats.demolab.com/?user=bacelarnetto&theme=tokyonight" /></a> </div> <br/>  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+  </a>
+  <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+    <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+  </a>
+  <br />
+  <br />
+  <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
+    <img src="./powered-by-vercel.svg"/>
+  </a>
+</p>
     
 ## Technologies I have mastered  ⭐️
 <div align="center" >  
