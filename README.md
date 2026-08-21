@@ -64,7 +64,7 @@ I believe that software architecture should balance scalability, reliability, ma
   </a>
   <br />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacelarnetto&commits_year=2026)
     
 ## Technologies I have mastered  ⭐️
 <div align="center" >  
