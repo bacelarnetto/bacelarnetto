@@ -1,22 +1,17 @@
-# Hey! My name is José Ribamar! 👋 
-
+Hey! My name is José Ribamar! 👋
 <div align="right" >
 <p>
-  <a href="README.md"><img src="https://img.shields.io/badge/lang-en-EA4335.svg" alt="en"></a>
-  <a href="README.pt-br.md"><img src="https://img.shields.io/badge/lang-pt--br-339933.svg" alt="pt-br"></a>
+<a href="README.md"><img src="https://img.shields.io/badge/lang-en-EA4335.svg" alt="en"></a>
+<a href="README.pt-br.md"><img src="https://img.shields.io/badge/lang-pt--br-339933.svg" alt="pt-br"></a>
 </p>
 </div>
-
-
-```kotlin
 class Profile {
     val name = "José Ribamar Bacelar Netto"
-    val professionalSummary  = "I enjoy building scalable and resilient systems using Java, Kotlin, " + 
-        "Spring Boot, Kubernetes, Docker, and cloud-native technologies. " + 
-        "My public projects explore distributed systems, microservices, observability, event-driven architectures,  " + 
-        "Platform Engineering, Generative AI, AI Agents, RAG, and MCP."
-
-I believe that software architecture should balance scalability, reliability, maintainability, and developer experience.   
+    val professionalSummary  = "I enjoy building scalable and resilient systems using Java, Kotlin, " +
+        "Spring Boot, Kubernetes, Docker, and cloud-native technologies. " +
+        "My public projects explore distributed systems, microservices, observability, event-driven architectures,  " +
+        "Platform Engineering, Generative AI, AI Agents, RAG, and MCP. " +
+        "I believe that software architecture should balance scalability, reliability, maintainability, and developer experience."
     val educationalBackground = "Bachelor in Information Systems"
     val qualifications = listOf(
         "IT Architect",
@@ -37,30 +32,27 @@ I believe that software architecture should balance scalability, reliability, ma
         "Watch series "
     )
 }
-```
-<br/> 
-
-
-## Github status :octocat:
-
+​
+<br/>
+Github status :octocat:
 <div align="right">
-   <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
+<img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
 </div>
 <br/>
 <div align="center" >
-    <img  src="https://github-profile-trophy.vercel.app/?username=bacelarnetto&theme=tokyonight&column=7" />
-    <a href="https://github.com/bacelarnetto">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&langs_count=16&theme=tokyonight"  />
-    </a>
+<img  src="https://github-profile-trophy.vercel.app/?username=bacelarnetto&theme=tokyonight&column=7" />
+<a href="https://github.com/bacelarnetto">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&layout=compact&langs_count=16&theme=tokyonight"  />
+</a>
 </div>
-<div align="center" >  
+<div align="center" >
+<!-- TODO: replace streak-stats.demolab.com with your own self-hosted instance URL once deployed (see notes below) -->
 <a href="https://github.com/bacelarnetto"><img src="https://streak-stats.demolab.com/?user=bacelarnetto&theme=tokyonight" /></a>
 </div>
-<br/>    
-    
-## Technologies I have mastered  ⭐️
-<div align="center" >  
+<br/>
+Technologies I have mastered ⭐️
+<div align="center" >
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://spring.io/"><img height= "35" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 <a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
@@ -77,15 +69,13 @@ I believe that software architecture should balance scalability, reliability, ma
 <a href="https://ubuntu.com"><img height= "35" src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="https://www.microsoft.com/pt-br/windows"><img height= "35" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://eclipseide.org/"><img height= "35" src= "https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"></a>
-<a href="https://www.jetbrains.com/"><img height= "35" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
-<a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> 
-<a href="https://www.rabbitmq.com/"><img height= "35" src= "https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a> 
-</div>    
-    
-<br/><br/> 
-    
-## Technologies in state of loading 📖
-  <div align="center" > 
+<a href="https://www.jetbrains.com/"><img height= "35" src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual studio code&logoColor=white"></a>
+<a href="https://www.rabbitmq.com/"><img height= "35" src= "https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
+</div>
+<br/><br/>
+Technologies in state of loading 📖
+<div align="center" >
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 <a href="https://www.npmjs.com/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://expressjs.com/"><img height= "35" src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=ex&logoColor=white"></a>
@@ -97,24 +87,17 @@ I believe that software architecture should balance scalability, reliability, ma
 <a href="https://graphql.org/"><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
 <a href="https://kotlinlang.org/"><img height= "35" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <a href="https://mui.com/"><img height= "35" src= "https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
-<a href="https://www.apple.com/br/macos"><img height= "35" src= "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+<a href="https://www.apple.com/br/macos"><img height= "35" src= "https://img.shields.io/badge/mac os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a href="https://aws.amazon.com"><img height= "35" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 <a href="https://cloud.google.com"><img height= "35" src= "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 <a href="https://redis.io"><img height= "35" src= "https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white"></a>
-</div>  
-<br/><br/>  
-  
-## Contacts 💬 
-<div> 
-<a href="https://www.linkedin.com/in/jos%C3%A9-ribamar-bacelar-netto-4b54aa93" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://gitlab.com/bacelarnetto" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" target="_blank"></a> 
-<a href="mailto:bacelar.netto.analista@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
-
-
 </div>
-<br/><br/> 
-    
-
-    
-![snake gif](https://github.com/bacelarnetto/bacelarnetto/blob/output/github-contribution-grid-snake.svg)
-
+<br/><br/>
+Contacts 💬
+<div>
+<a href="https://www.linkedin.com/in/josé-ribamar-bacelar-netto-4b54aa93" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://gitlab.com/bacelarnetto" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" target="_blank"></a>
+<a href="mailto:bacelar.netto.analista@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+</div>
+<br/><br/>
+</content>
