@@ -62,6 +62,7 @@ I believe that software architecture should balance scalability, reliability, ma
   <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
     <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/bacelarnetto/github-readme-stats/badge" />
   </a>
+   <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
   <br />
 </p>
     
