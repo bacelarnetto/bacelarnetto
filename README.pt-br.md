@@ -16,7 +16,10 @@ class Profile {
         "observabilidade, arquitetura orientada a eventos, " +
         "computação em nuvem, engenharia de plataforma e soluções baseadas em  " +
         "IA generativa, agentes de IA, RAG e MCP (Model Context Protocol)." 
-    val educationalBackground = "Bacharelado em Sistemas de informação"
+    val educationalBackground = listOf(
+        "Bacharelado em Sistemas de Informação",
+        "Pós-graduação em e Arquitetura de Software Distribuído"
+    )
     val qualifications = listOf(
         "IT Architect",
         "Software Engineer",
