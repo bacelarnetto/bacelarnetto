@@ -18,7 +18,7 @@ class Profile {
         "IA generativa, agentes de IA, RAG e MCP (Model Context Protocol)." 
     val educationalBackground = listOf(
         "Bacharelado em Sistemas de Informação",
-        "Pós-graduação em e Arquitetura de Software Distribuído"
+        "Pós-graduação em Arquitetura de Software Distribuído"
     )
     val qualifications = listOf(
         "IT Architect",
