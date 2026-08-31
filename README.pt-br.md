@@ -112,6 +112,9 @@ class Profile {
     <a href="https://aws.amazon.com"><img height= "35" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     <a href="https://cloud.google.com"><img height= "35" src= "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
     <a href="https://redis.io"><img height= "35" src= "https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white"></a>
+    <a href="https://www.espressif.com/en/products/socs/esp32">
+  <img height="35" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+</a>
 </div>  
 <br/><br/>  
   
