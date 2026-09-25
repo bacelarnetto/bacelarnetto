@@ -69,7 +69,12 @@ class Profile {
 </p>
 
 <br/> 
-    
+
+<p align="center">
+  <a href="https://github.com/bacelarnetto">
+    <img src="https://streak-stats.demolab.com?user=bacelarnetto&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>    
 ## Tecnologias que tenho domínio  ⭐️
 <div align="center" >  
     <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
