@@ -67,7 +67,9 @@ class Profile {
    <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
   <br />
 </p>
-    
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=bacelarnetto&theme=dracula)](https://git.io/streak-stats)
+</p>   
 ## Technologies I have mastered  ⭐️
 <div align="center" >  
   <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
