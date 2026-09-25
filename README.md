@@ -68,7 +68,7 @@ class Profile {
   <br />
 </p>
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=bacelarnetto&theme=dracula)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=bacelarnetto&theme=dracula)](https://github.com/bacelarnetto)
 </p>   
 ## Technologies I have mastered  ⭐️
 <div align="center" >  
