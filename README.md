@@ -73,7 +73,9 @@ class Profile {
   </a>
 </p>
 <br />
+
 ## Technologies I have mastered  ⭐️
+
 <div align="center" >  
   <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="https://spring.io/"><img height= "35" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
@@ -104,6 +106,7 @@ class Profile {
 <br/><br/>
   
 ## Technologies in state of loading 📖
+
   <div align="center" > 
     <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -122,6 +125,7 @@ class Profile {
 <br/><br/>  
   
 ## Contacts 💬 
+
 <div> 
 <a href="https://www.linkedin.com/in/jos%C3%A9-ribamar-bacelar-netto-4b54aa93" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://gitlab.com/bacelarnetto" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" target="_blank"></a> 
