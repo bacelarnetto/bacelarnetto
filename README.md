@@ -97,7 +97,7 @@ class Profile {
 </div>    
     
 <br/><br/> 
-![Visitor Count](https://komarev.com/ghpvc/?username=bacelarnetto&color=blue&style=flat-square)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bacelarnetto.bacelarnetto)
  <br/><br/>    
 ## Technologies in state of loading 📖
   <div align="center" > 
