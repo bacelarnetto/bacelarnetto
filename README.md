@@ -96,9 +96,8 @@ class Profile {
   <a href="https://www.apple.com/br/macos"><img height= "35" src= "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 </div>    
     
-<br/><br/> 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bacelarnetto.bacelarnetto)
- <br/><br/>    
+<br/><br/>
+  
 ## Technologies in state of loading 📖
   <div align="center" > 
     <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
