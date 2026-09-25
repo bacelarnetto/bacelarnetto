@@ -65,16 +65,14 @@ class Profile {
     <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/bacelarnetto/github-readme-stats/badge" />
   </a>
    <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
-  <br />
 </p>
-
-<br/> 
-
+<br />
 <p align="center">
   <a href="https://github.com/bacelarnetto">
     <img src="https://streak-stats.demolab.com?user=bacelarnetto&theme=dracula" alt="GitHub Streak" />
   </a>
-</p>    
+</p>
+<br />  
 ## Tecnologias que tenho domínio  ⭐️
 <div align="center" >  
     <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
