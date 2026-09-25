@@ -97,7 +97,8 @@ class Profile {
 </div>    
     
 <br/><br/> 
-    
+![Visitor Count](https://komarev.com/ghpvc/?username=bacelarnetto&color=blue&style=flat-square)
+ <br/><br/>    
 ## Technologies in state of loading 📖
   <div align="center" > 
     <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
