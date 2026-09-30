@@ -66,7 +66,18 @@ class Profile {
   </a>
    <img  src="https://komarev.com/ghpvc/?username=bacelarnetto&color=blue" />
 </p>
+
 <br />
+
+<p align="center">
+  <a href="https://github.com/bacelarnetto">
+    <img src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&count_private=true&show_icons=true&theme=dracula&locale=pt-br" alt="José Ribamar's GitHub stats" />
+  </a>
+  <a href="https://github.com/bacelarnetto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&langs_count=8&layout=compact&theme=dracula&locale=pt-br" alt="Top Langs" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/bacelarnetto">
     <img src="https://streak-stats.demolab.com?user=bacelarnetto&theme=dracula" alt="GitHub Streak" />
