@@ -70,9 +70,9 @@ class Profile {
 
 <p align="center">  
   
-[![José Ribamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacelarnetto&count_private=true&show_icons=true&theme=gruvbox&locale=pt-br)](https://github.com/bacelarnetto)
+[![José Ribamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacelarnetto&count_private=true&show_icons=true&theme=dracula&locale=pt-br)](https://github.com/bacelarnetto)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&langs_count=8&layout=compact&theme=gruvbox&locale=pt-br)](https://github.com/bacelarnetto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&langs_count=8&layout=compact&theme=dracula&locale=pt-br)](https://github.com/bacelarnetto)
 
 </p>
 <p align="center">
