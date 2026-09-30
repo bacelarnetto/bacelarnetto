@@ -68,12 +68,12 @@ class Profile {
 </p>
 <br />
 <p align="center">
-  [![José Ribamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacelarnetto&count_private=true&show_icons=true&theme=gruvbox&locale=pt-br)](https://github.com/bacelarnetto)
+  
+[![José Ribamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacelarnetto&count_private=true&show_icons=true&theme=gruvbox&locale=pt-br)](https://github.com/bacelarnetto)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&langs_count=8&layout=compact&theme=gruvbox&locale=pt-br)](https://github.com/bacelarnetto)
+
   <a href="https://github.com/bacelarnetto">
-    ![José Ribamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacelarnetto&count_private=true&show_icons=true&theme=gruvbox&locale=pt-br)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&langs_count=8&layout=compact&theme=gruvbox&locale=pt-br)
     <img src="https://streak-stats.demolab.com?user=bacelarnetto&theme=dracula" alt="GitHub Streak" />
   </a>
 </p>
