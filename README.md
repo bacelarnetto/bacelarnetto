@@ -68,12 +68,13 @@ class Profile {
 </p>
 <br />
 
-<p align="center">  
-  
-[![José Ribamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacelarnetto&count_private=true&show_icons=true&theme=dracula&locale=pt-br)](https://github.com/bacelarnetto)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&langs_count=8&layout=compact&theme=dracula&locale=pt-br)](https://github.com/bacelarnetto)
-
+<p align="center">
+  <a href="https://github.com/bacelarnetto">
+    <img src="https://github-readme-stats.vercel.app/api?username=bacelarnetto&count_private=true&show_icons=true&theme=dracula&locale=pt-br" alt="José Ribamar's GitHub stats" />
+  </a>
+  <a href="https://github.com/bacelarnetto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacelarnetto&langs_count=8&layout=compact&theme=dracula&locale=pt-br" alt="Top Langs" />
+  </a>
 </p>
 <p align="center">
   <a href="https://github.com/bacelarnetto">
